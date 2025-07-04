@@ -1,0 +1,7 @@
+services:
+  - type: cron
+    name: hyggshi-wiki-ping
+    runtime: python
+    buildCommand: ""
+    startCommand: python main.py
+    schedule: "0 12 * * */7"  # Chạy mỗi 7 ngày lúc 12h UTC
