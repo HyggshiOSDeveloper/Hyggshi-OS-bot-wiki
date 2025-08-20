@@ -1,0 +1,366 @@
+
+=== Chạy mới: 2025-08-16 09:17:38 ===
+[2025-08-16 09:17:40]  [✔] Đăng nhập thành công vào wiki thử: Wiki chính
+[2025-08-16 09:17:40]  🔄 Bắt đầu cập nhật toàn bộ wiki...
+
+=== Chạy mới: 2025-08-16 09:17:40 ===
+
+=== Chạy mới: 2025-08-16 09:17:40 ===
+
+=== Chạy mới: 2025-08-16 09:17:40 ===
+
+=== Chạy mới: 2025-08-16 09:17:40 ===
+[2025-08-16 09:17:40] [Wiki china] 🌐 Bắt đầu xử lý wiki: Wiki china
+i tiếng Việt
+[2025-08-16 09:17:40] [Wiki Korea] 🌐 Bắt đầu xử lý wiki: Wiki Korea
+[2025-08-16 09:17:42] [Wiki chính] [🟢] Tìm thấy trang: Main Page
+[2025-08-16 09:17:42] [Wiki Korea] [🟢] Tìm thấy trang: Main Page
+[2025-08-16 09:17:42] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Main_Page
+[2025-08-16 09:17:43] [Wiki china] [🟢] Tìm thấy trang: 首页
+[2025-08-16 09:17:43] [Wiki chính] [✓] Cập nhật thành công: Main Page
+[2025-08-16 09:17:44] [Wiki Korea] [✓] Cập nhật thành công: Main Page
+[2025-08-16 09:17:44] [Wiki china] [✓] Cập nhật thành công: 首页
+[2025-08-16 09:17:44] [Wiki tiếng Việt] [✓] Cập nhật thành công: Main_Page
+[2025-08-16 09:18:03] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:04] [Wiki Korea] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:04] [Wiki chính] [🟢] Tìm thấy trang: solarOS
+[2025-08-16 09:18:04] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:04] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:04] [Wiki Korea] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-16 09:18:04] [Wiki china] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-16 09:18:04] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-16 09:18:05] [Wiki chính] [✓] Cập nhật thành công: solarOS
+[2025-08-16 09:18:05] [Wiki Korea] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-16 09:18:05] [Wiki Korea] ✅ Hoàn tất: Wiki Korea
+[2025-08-16 09:18:05] [Wiki china] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-16 09:18:05] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-16 09:18:25] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:25] [Wiki chính] [🟢] Tìm thấy trang: Create post OS fandom
+[2025-08-16 09:18:25] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:25] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:25] [Wiki china] [🟢] Tìm thấy trang: Hyggshi OS china Wiki
+[2025-08-16 09:18:25] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-16 09:18:26] [Wiki chính] [✓] Cập nhật thành công: Create post OS fandom
+[2025-08-16 09:18:26] [Wiki china] [✓] Cập nhật thành công: Hyggshi OS china Wiki
+[2025-08-16 09:18:26] [Wiki china] ✅ Hoàn tất: Wiki china
+[2025-08-16 09:18:26] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-16 09:18:26] [Wiki tiếng Việt] ✅ Hoàn tất: Wiki tiếng Việt
+[2025-08-16 09:18:46] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:18:46] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-16 09:18:47] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-16 09:19:07] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:19:07] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi_OS_RT
+[2025-08-16 09:19:08] [Wiki chính] [✓] Cập nhật thành công: Hyggshi_OS_RT
+[2025-08-16 09:19:28] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:19:28] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Terminal
+[2025-08-16 09:19:29] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Terminal
+[2025-08-16 09:19:49] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:19:50] [Wiki chính] [🟢] Tìm thấy trang: Developer
+[2025-08-16 09:19:50] [Wiki chính] [✓] Cập nhật thành công: Developer
+[2025-08-16 09:20:10] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:20:11] [Wiki chính] [🟢] Tìm thấy trang: Zashi Messaging
+[2025-08-16 09:20:12] [Wiki chính] [✓] Cập nhật thành công: Zashi Messaging
+[2025-08-16 09:20:32] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:20:32] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 1.0
+[2025-08-16 09:20:33] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 1.0
+[2025-08-16 09:20:53] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:20:53] [Wiki chính] [🟢] Tìm thấy trang: App
+[2025-08-16 09:20:54] [Wiki chính] [✓] Cập nhật thành công: App
+[2025-08-16 09:21:14] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:21:14] [Wiki chính] [🟢] Tìm thấy trang: RRT
+[2025-08-16 09:21:15] [Wiki chính] [✓] Cập nhật thành công: RRT
+[2025-08-16 09:21:35] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:21:35] [Wiki chính] [🟢] Tìm thấy trang: OS
+[2025-08-16 09:21:36] [Wiki chính] [✓] Cập nhật thành công: OS
+[2025-08-16 09:21:56] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:21:57] [Wiki chính] [🟢] Tìm thấy trang: Code
+[2025-08-16 09:21:57] [Wiki chính] [✓] Cập nhật thành công: Code
+[2025-08-16 09:22:17] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:22:18] [Wiki chính] [🟢] Tìm thấy trang: Wiki Bot
+[2025-08-16 09:22:19] [Wiki chính] [✓] Cập nhật thành công: Wiki Bot
+[2025-08-16 09:22:39] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:22:39] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Developer
+[2025-08-16 09:22:40] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Developer
+[2025-08-16 09:23:00] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:23:01] [Wiki chính] [🟢] Tìm thấy trang: App Windows
+[2025-08-16 09:23:01] [Wiki chính] [✓] Cập nhật thành công: App Windows
+[2025-08-16 09:23:21] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:23:22] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi Profile
+[2025-08-16 09:23:23] [Wiki chính] [✓] Cập nhật thành công: Hyggshi Profile
+[2025-08-16 09:23:43] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:23:43] [Wiki chính] [🟢] Tìm thấy trang: Rbtfjt Profile
+[2025-08-16 09:23:44] [Wiki chính] [✓] Cập nhật thành công: Rbtfjt Profile
+[2025-08-16 09:24:04] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:24:04] [Wiki chính] [🟢] Tìm thấy trang: Request permission
+[2025-08-16 09:24:05] [Wiki chính] [✓] Cập nhật thành công: Request permission
+[2025-08-16 09:24:25] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:24:25] [Wiki chính] [🟢] Tìm thấy trang: Community Rules
+[2025-08-16 09:24:26] [Wiki chính] [✓] Cập nhật thành công: Community Rules
+[2025-08-16 09:24:46] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:24:46] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS
+[2025-08-16 09:24:47] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS
+[2025-08-16 09:25:07] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:25:08] [Wiki chính] [🟢] Tìm thấy trang: Update Log
+[2025-08-16 09:25:08] [Wiki chính] [✓] Cập nhật thành công: Update Log
+[2025-08-16 09:25:28] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:25:29] [Wiki chính] [🟢] Tìm thấy trang: System OS
+[2025-08-16 09:25:29] [Wiki chính] [✓] Cập nhật thành công: System OS
+[2025-08-16 09:25:49] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:25:50] [Wiki chính] [🟢] Tìm thấy trang: My computer
+[2025-08-16 09:25:51] [Wiki chính] [✓] Cập nhật thành công: My computer
+[2025-08-16 09:26:11] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:26:11] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS RT
+[2025-08-16 09:26:12] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS RT
+[2025-08-16 09:26:32] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-16 09:26:32] [Wiki chính] [🟢] Tìm thấy trang: Windows 10 OS
+[2025-08-16 09:26:33] [Wiki chính] [✓] Cập nhật thành công: Windows 10 OS
+[2025-08-16 09:26:33] [Wiki chính] ✅ Hoàn tất: Wiki chính
+
+=== Chạy mới: 2025-08-17 08:20:46 ===
+[2025-08-17 08:20:48]  [✔] Đăng nhập thành công vào wiki thử: Wiki chính
+[2025-08-17 08:20:48]  🔄 Bắt đầu cập nhật toàn bộ wiki...
+
+=== Chạy mới: 2025-08-17 08:20:48 ===
+
+=== Chạy mới: 2025-08-17 08:20:48 ===
+[2025-08-17 08:20:48] [Wiki chính] 🌐 Bắt đầu xử lý wiki: Wiki chính
+[2025-08-17 08:20:48] [Wiki tiếng Việt] 🌐 Bắt đầu xử lý wiki: Wiki tiếng Việt
+
+=== Chạy mới: 2025-08-17 08:20:48 ===
+
+=== Chạy mới: 2025-08-17 08:20:48 ===
+[2025-08-17 08:20:48] [Wiki china] 🌐 Bắt đầu xử lý wiki: Wiki china
+[2025-08-17 08:20:48] [Wiki Korea] 🌐 Bắt đầu xử lý wiki: Wiki Korea
+[2025-08-17 08:20:50] [Wiki chính] [🟢] Tìm thấy trang: Main Page
+[2025-08-17 08:20:51] [Wiki china] [🟢] Tìm thấy trang: 首页
+[2025-08-17 08:20:51] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Main_Page
+[2025-08-17 08:20:51] [Wiki Korea] [🟢] Tìm thấy trang: Main Page
+[2025-08-17 08:20:51] [Wiki chính] [✓] Cập nhật thành công: Main Page
+[2025-08-17 08:20:52] [Wiki china] [✓] Cập nhật thành công: 首页
+[2025-08-17 08:20:52] [Wiki Korea] [✓] Cập nhật thành công: Main Page
+[2025-08-17 08:20:52] [Wiki tiếng Việt] [✓] Cập nhật thành công: Main_Page
+[2025-08-17 08:21:11] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:12] [Wiki chính] [🟢] Tìm thấy trang: solarOS
+[2025-08-17 08:21:12] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:12] [Wiki Korea] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:12] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:12] [Wiki china] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-17 08:21:12] [Wiki Korea] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-17 08:21:12] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-17 08:21:13] [Wiki chính] [✓] Cập nhật thành công: solarOS
+[2025-08-17 08:21:13] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-17 08:21:13] [Wiki china] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-17 08:21:13] [Wiki Korea] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-17 08:21:13] [Wiki Korea] ✅ Hoàn tất: Wiki Korea
+[2025-08-17 08:21:33] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:33] [Wiki chính] [🟢] Tìm thấy trang: Create post OS fandom
+[2025-08-17 08:21:33] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:33] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:33] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-17 08:21:33] [Wiki china] [🟢] Tìm thấy trang: Hyggshi OS china Wiki
+[2025-08-17 08:21:34] [Wiki chính] [✓] Cập nhật thành công: Create post OS fandom
+[2025-08-17 08:21:34] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-17 08:21:34] [Wiki tiếng Việt] ✅ Hoàn tất: Wiki tiếng Việt
+[2025-08-17 08:21:34] [Wiki china] [✓] Cập nhật thành công: Hyggshi OS china Wiki
+[2025-08-17 08:21:34] [Wiki china] ✅ Hoàn tất: Wiki china
+[2025-08-17 08:21:54] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:21:54] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-17 08:21:55] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-17 08:22:15] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:22:15] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi_OS_RT
+[2025-08-17 08:22:16] [Wiki chính] [✓] Cập nhật thành công: Hyggshi_OS_RT
+[2025-08-17 08:22:36] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:22:36] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Terminal
+[2025-08-17 08:22:37] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Terminal
+[2025-08-17 08:22:57] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:22:57] [Wiki chính] [🟢] Tìm thấy trang: Developer
+[2025-08-17 08:22:58] [Wiki chính] [✓] Cập nhật thành công: Developer
+[2025-08-17 08:23:18] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:23:19] [Wiki chính] [🟢] Tìm thấy trang: Zashi Messaging
+[2025-08-17 08:23:19] [Wiki chính] [✓] Cập nhật thành công: Zashi Messaging
+[2025-08-17 08:23:39] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:23:40] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 1.0
+[2025-08-17 08:23:41] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 1.0
+[2025-08-17 08:24:01] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:24:01] [Wiki chính] [🟢] Tìm thấy trang: App
+[2025-08-17 08:24:02] [Wiki chính] [✓] Cập nhật thành công: App
+[2025-08-17 08:24:22] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:24:22] [Wiki chính] [🟢] Tìm thấy trang: RRT
+[2025-08-17 08:24:23] [Wiki chính] [✓] Cập nhật thành công: RRT
+[2025-08-17 08:24:43] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:24:43] [Wiki chính] [🟢] Tìm thấy trang: OS
+[2025-08-17 08:24:44] [Wiki chính] [✓] Cập nhật thành công: OS
+[2025-08-17 08:25:04] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:25:04] [Wiki chính] [🟢] Tìm thấy trang: Code
+[2025-08-17 08:25:05] [Wiki chính] [✓] Cập nhật thành công: Code
+[2025-08-17 08:25:25] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:25:25] [Wiki chính] [🟢] Tìm thấy trang: Wiki Bot
+[2025-08-17 08:25:26] [Wiki chính] [✓] Cập nhật thành công: Wiki Bot
+[2025-08-17 08:25:46] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:25:47] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Developer
+[2025-08-17 08:25:48] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Developer
+[2025-08-17 08:26:08] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:26:08] [Wiki chính] [🟢] Tìm thấy trang: App Windows
+[2025-08-17 08:26:09] [Wiki chính] [✓] Cập nhật thành công: App Windows
+[2025-08-17 08:26:29] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:26:29] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi Profile
+[2025-08-17 08:26:30] [Wiki chính] [✓] Cập nhật thành công: Hyggshi Profile
+[2025-08-17 08:26:50] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:26:50] [Wiki chính] [🟢] Tìm thấy trang: Rbtfjt Profile
+[2025-08-17 08:26:51] [Wiki chính] [✓] Cập nhật thành công: Rbtfjt Profile
+[2025-08-17 08:27:11] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:27:11] [Wiki chính] [🟢] Tìm thấy trang: Request permission
+[2025-08-17 08:27:12] [Wiki chính] [✓] Cập nhật thành công: Request permission
+[2025-08-17 08:27:32] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:27:33] [Wiki chính] [🟢] Tìm thấy trang: Community Rules
+[2025-08-17 08:27:33] [Wiki chính] [✓] Cập nhật thành công: Community Rules
+[2025-08-17 08:27:53] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:27:54] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS
+[2025-08-17 08:27:54] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS
+[2025-08-17 08:28:14] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:28:15] [Wiki chính] [🟢] Tìm thấy trang: Update Log
+[2025-08-17 08:28:15] [Wiki chính] [✓] Cập nhật thành công: Update Log
+[2025-08-17 08:28:35] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:28:36] [Wiki chính] [🟢] Tìm thấy trang: System OS
+[2025-08-17 08:28:37] [Wiki chính] [✓] Cập nhật thành công: System OS
+[2025-08-17 08:28:57] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:28:57] [Wiki chính] [🟢] Tìm thấy trang: My computer
+[2025-08-17 08:28:58] [Wiki chính] [✓] Cập nhật thành công: My computer
+[2025-08-17 08:29:18] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:29:18] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS RT
+[2025-08-17 08:29:19] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS RT
+[2025-08-17 08:29:39] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-17 08:29:39] [Wiki chính] [🟢] Tìm thấy trang: Windows 10 OS
+[2025-08-17 08:29:40] [Wiki chính] [✓] Cập nhật thành công: Windows 10 OS
+[2025-08-17 08:29:40] [Wiki chính] ✅ Hoàn tất: Wiki chính
+[2025-08-17 08:39:40]  🔄 Bắt đầu cập nhật toàn bộ wiki...
+
+=== Chạy mới: 2025-08-17 08:39:41 ===
+[2025-08-17 08:39:41] [Wiki Korea] 🌐 Bắt đầu xử lý wiki: Wiki Korea
+i tiếng Việt
+[2025-08-17 08:39:43] [Wiki chính] [🟢] Tìm thấy trang: Main Page
+[2025-08-17 08:39:43] [Wiki Korea] [🟢] Tìm thấy trang: Main Page
+[2025-08-17 08:39:43] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Main_Page
+[2025-08-17 08:39:43] [Wiki china] [🟢] Tìm thấy trang: 首页
+[2025-08-17 08:39:44] [Wiki Korea] [✓] Cập nhật thành công: Main Page
+[2025-08-17 08:39:44] [Wiki chính] [✓] Cập nhật thành công: Main Page
+[2025-08-17 08:39:44] [Wiki china] [✓] Cập nhật thành công: 首页
+[2025-08-17 08:39:44] [Wiki tiếng Việt] [✓] Cập nhật thành công: Main_Page
+
+=== Chạy mới: 2025-08-19 14:15:39 ===
+[2025-08-19 14:15:42]  [✔] Đăng nhập thành công vào wiki thử: Wiki chính
+[2025-08-19 14:15:42]  🔄 Bắt đầu cập nhật toàn bộ wiki...
+
+=== Chạy mới: 2025-08-19 14:15:42 ===
+[2025-08-19 14:15:42] [Wiki chính] 🌐 Bắt đầu xử lý wiki: Wiki chính
+
+=== Chạy mới: 2025-08-19 14:15:42 ===
+
+=== Chạy mới: 2025-08-19 14:15:42 ===
+[2025-08-19 14:15:42] [Wiki tiếng Việt] 🌐 Bắt đầu xử lý wiki: Wiki tiếng Việt
+[2025-08-19 14:15:42] [Wiki china] 🌐 Bắt đầu xử lý wiki: Wiki china
+
+=== Chạy mới: 2025-08-19 14:15:42 ===
+[2025-08-19 14:15:42] [Wiki Korea] 🌐 Bắt đầu xử lý wiki: Wiki Korea
+[2025-08-19 14:15:45] [Wiki chính] [🟢] Tìm thấy trang: Main Page
+[2025-08-19 14:15:45] [Wiki china] [🟢] Tìm thấy trang: 首页
+[2025-08-19 14:15:45] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Main_Page
+[2025-08-19 14:15:45] [Wiki Korea] [🟢] Tìm thấy trang: Main Page
+[2025-08-19 14:15:46] [Wiki chính] [✓] Cập nhật thành công: Main Page
+[2025-08-19 14:15:46] [Wiki china] [✓] Cập nhật thành công: 首页
+[2025-08-19 14:15:46] [Wiki tiếng Việt] [✓] Cập nhật thành công: Main_Page
+[2025-08-19 14:15:46] [Wiki Korea] [✓] Cập nhật thành công: Main Page
+[2025-08-19 14:16:06] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:06] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:06] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:06] [Wiki chính] [🟢] Tìm thấy trang: solarOS
+[2025-08-19 14:16:06] [Wiki Korea] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:06] [Wiki china] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-19 14:16:06] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-19 14:16:06] [Wiki Korea] [🟢] Tìm thấy trang: Hyggshi_OS_1.0
+[2025-08-19 14:16:07] [Wiki china] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-19 14:16:07] [Wiki chính] [✓] Cập nhật thành công: solarOS
+[2025-08-19 14:16:07] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-19 14:16:07] [Wiki Korea] [✓] Cập nhật thành công: Hyggshi_OS_1.0
+[2025-08-19 14:16:07] [Wiki Korea] ✅ Hoàn tất: Wiki Korea
+[2025-08-19 14:16:27] [Wiki china] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:27] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:27] [Wiki tiếng Việt] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:27] [Wiki china] [🟢] Tìm thấy trang: Hyggshi OS china Wiki
+[2025-08-19 14:16:27] [Wiki tiếng Việt] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-19 14:16:27] [Wiki chính] [🟢] Tìm thấy trang: Create post OS fandom
+[2025-08-19 14:16:28] [Wiki china] [✓] Cập nhật thành công: Hyggshi OS china Wiki
+[2025-08-19 14:16:28] [Wiki china] ✅ Hoàn tất: Wiki china
+[2025-08-19 14:16:28] [Wiki tiếng Việt] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-19 14:16:28] [Wiki tiếng Việt] ✅ Hoàn tất: Wiki tiếng Việt
+[2025-08-19 14:16:28] [Wiki chính] [✓] Cập nhật thành công: Create post OS fandom
+[2025-08-19 14:16:48] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:16:49] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 2.0
+[2025-08-19 14:16:50] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 2.0
+[2025-08-19 14:17:10] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:17:10] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi_OS_RT
+[2025-08-19 14:17:12] [Wiki chính] [✓] Cập nhật thành công: Hyggshi_OS_RT
+[2025-08-19 14:17:32] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:17:33] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Terminal
+[2025-08-19 14:17:34] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Terminal
+[2025-08-19 14:17:54] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:17:54] [Wiki chính] [🟢] Tìm thấy trang: Developer
+[2025-08-19 14:17:55] [Wiki chính] [✓] Cập nhật thành công: Developer
+[2025-08-19 14:18:15] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:18:15] [Wiki chính] [🟢] Tìm thấy trang: Zashi Messaging
+[2025-08-19 14:18:16] [Wiki chính] [✓] Cập nhật thành công: Zashi Messaging
+[2025-08-19 14:18:36] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:18:37] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS 1.0
+[2025-08-19 14:18:38] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS 1.0
+[2025-08-19 14:18:58] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:18:58] [Wiki chính] [🟢] Tìm thấy trang: App
+[2025-08-19 14:18:59] [Wiki chính] [✓] Cập nhật thành công: App
+[2025-08-19 14:19:19] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:19:19] [Wiki chính] [🟢] Tìm thấy trang: RRT
+[2025-08-19 14:19:20] [Wiki chính] [✓] Cập nhật thành công: RRT
+[2025-08-19 14:19:40] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:19:41] [Wiki chính] [🟢] Tìm thấy trang: OS
+[2025-08-19 14:19:42] [Wiki chính] [✓] Cập nhật thành công: OS
+[2025-08-19 14:20:02] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:20:02] [Wiki chính] [🟢] Tìm thấy trang: Code
+[2025-08-19 14:20:03] [Wiki chính] [✓] Cập nhật thành công: Code
+[2025-08-19 14:20:23] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:20:24] [Wiki chính] [🟢] Tìm thấy trang: Wiki Bot
+[2025-08-19 14:20:58] [Wiki chính] [✓] Cập nhật thành công: Wiki Bot
+[2025-08-19 14:21:18] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:21:19] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS Developer
+[2025-08-19 14:21:20] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS Developer
+[2025-08-19 14:21:40] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:21:41] [Wiki chính] [🟢] Tìm thấy trang: App Windows
+[2025-08-19 14:21:42] [Wiki chính] [✓] Cập nhật thành công: App Windows
+[2025-08-19 14:22:02] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:22:02] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi Profile
+[2025-08-19 14:22:03] [Wiki chính] [✓] Cập nhật thành công: Hyggshi Profile
+[2025-08-19 14:22:23] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:22:24] [Wiki chính] [🟢] Tìm thấy trang: Rbtfjt Profile
+[2025-08-19 14:22:25] [Wiki chính] [✓] Cập nhật thành công: Rbtfjt Profile
+[2025-08-19 14:22:45] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:22:46] [Wiki chính] [🟢] Tìm thấy trang: Request permission
+[2025-08-19 14:22:46] [Wiki chính] [✓] Cập nhật thành công: Request permission
+[2025-08-19 14:23:06] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:23:07] [Wiki chính] [🟢] Tìm thấy trang: Community Rules
+[2025-08-19 14:23:08] [Wiki chính] [✓] Cập nhật thành công: Community Rules
+[2025-08-19 14:23:28] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:23:28] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS
+[2025-08-19 14:23:29] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS
+[2025-08-19 14:23:49] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:23:50] [Wiki chính] [🟢] Tìm thấy trang: Update Log
+[2025-08-19 14:24:08] [Wiki chính] [✓] Cập nhật thành công: Update Log
+[2025-08-19 14:24:28] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:24:29] [Wiki chính] [🟢] Tìm thấy trang: System OS
+[2025-08-19 14:24:31] [Wiki chính] [✓] Cập nhật thành công: System OS
+[2025-08-19 14:24:51] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:24:52] [Wiki chính] [🟢] Tìm thấy trang: My computer
+[2025-08-19 14:24:55] [Wiki chính] [✓] Cập nhật thành công: My computer
+[2025-08-19 14:25:15] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:25:17] [Wiki chính] [🟢] Tìm thấy trang: Hyggshi OS RT
+[2025-08-19 14:25:23] [Wiki chính] [✓] Cập nhật thành công: Hyggshi OS RT
+[2025-08-19 14:25:43] [Wiki chính] ⏳ Tạm dừng 20s...
+[2025-08-19 14:25:50] [Wiki chính] [🟢] Tìm thấy trang: Windows 10 OS
+[2025-08-19 14:25:52] [Wiki chính] [✓] Cập nhật thành công: Windows 10 OS
+[2025-08-19 14:25:52] [Wiki chính] ✅ Hoàn tất: Wiki chính
